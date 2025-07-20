@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shawnnotshown/shawnnotshown/main/banner.png" alt="Shawn Mikel Campo Banner" width="100%">
-</p>
-
 
 # 👋 Hello World! I'm Shawn Mikel Campo
 
