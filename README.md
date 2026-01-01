@@ -2,7 +2,7 @@
 # 👋 Hello World! I'm Shawn Mikel Campo
 
 🎓 Cum Laude IT Graduate | 🧠 AI Major | 🛡️ Cybersecurity & Web Dev Enthusiast  
-📍 Aparri, Cagayan, PH | ✉️ s.mikelcampo@gmail.com | 🌐 [Portfolio](https://shawnnotshown.github.io/ShawnCampo-Portfolio/)
+📍 Aparri, Cagayan, PH | ✉️ s.mikelcampo@gmail.com | 🌐 [Portfolio](https://shawnnotshown.github.io/ShawnsPortfolio/)
 
 ---
 
